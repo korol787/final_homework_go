@@ -2,7 +2,7 @@
 ## Запуск
 Сначала необходимо скачать исходный код проекта и перейти в скачанную папку.
 ```
-git clone https://github.com/alien-agent/users-balance-microservice
+git clone https://github.com/korol787/users-balance-microservice
 
 cd users-balance-microservice
 ```
